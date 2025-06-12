@@ -1,6 +1,8 @@
-# Image Encryption Tool - PRODIGY_CS_02
+# PRODIGY_CS_02
 
 A Python-based image encryption tool that uses pixel manipulation techniques to encrypt and decrypt images.
+
+# Live Demo: https://prodigy-cs-02-3.onrender.com
 
 ## Features
 
