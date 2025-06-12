@@ -41,5 +41,5 @@ Develop a simple image encryption tool using pixel manipulation. You can perform
 
 ## License
 
-Apache License, Version 2.0, January 2004
+Apache License, Version 2.0, January 2004  
 See [LICENSE](LICENSE) for details.
